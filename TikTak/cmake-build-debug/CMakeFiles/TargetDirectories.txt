@@ -1,0 +1,3 @@
+C:/stm32project/HAL/TikTak/cmake-build-debug/CMakeFiles/TikTak.elf.dir
+C:/stm32project/HAL/TikTak/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/stm32project/HAL/TikTak/cmake-build-debug/CMakeFiles/rebuild_cache.dir
